@@ -1,0 +1,11 @@
+C:\Users\CoFFey\source\repos\СП5\СП5\bin\Debug\СП5.exe.config
+C:\Users\CoFFey\source\repos\СП5\СП5\bin\Debug\СП5.exe
+C:\Users\CoFFey\source\repos\СП5\СП5\bin\Debug\СП5.pdb
+C:\Users\CoFFey\source\repos\СП5\СП5\obj\Debug\СП5.csproj.AssemblyReference.cache
+C:\Users\CoFFey\source\repos\СП5\СП5\obj\Debug\СП5.csproj.SuggestedBindingRedirects.cache
+C:\Users\CoFFey\source\repos\СП5\СП5\obj\Debug\СП5.Form1.resources
+C:\Users\CoFFey\source\repos\СП5\СП5\obj\Debug\СП5.Properties.Resources.resources
+C:\Users\CoFFey\source\repos\СП5\СП5\obj\Debug\СП5.csproj.GenerateResource.cache
+C:\Users\CoFFey\source\repos\СП5\СП5\obj\Debug\СП5.csproj.CoreCompileInputs.cache
+C:\Users\CoFFey\source\repos\СП5\СП5\obj\Debug\СП5.exe
+C:\Users\CoFFey\source\repos\СП5\СП5\obj\Debug\СП5.pdb
